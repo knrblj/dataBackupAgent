@@ -23,7 +23,7 @@ A Python-based backup automation tool to:
 ## 📁 Project Structure
 
 ```
-your-project/
+dataBackupAgent/
 ├── __init__.py             # Main script (entry point)
 ├── config.json             # Configuration file
 ├── zipper.py               # Zips multiple folders
