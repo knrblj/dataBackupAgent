@@ -1,0 +1,26 @@
+{
+  "folders_to_backup": [
+    "<FOLDER_PATH1>",
+    "<FOLDER_PATH2>",
+    "<FOLDER_PATH3>"
+  ],
+  "workdrive": {
+    "is_enabled": true,
+    "workdrive_folder_id": "<WORKDRIVE_FOLDER_ID>",
+    "user_zuid": "<USER_ZUID>",
+    "zoho_secrets": {
+      "client_id": "<CLIENT_ID>",
+      "client_secret": "<CLIENT_SECRET>",
+      "refresh_token": "<REFRESH_TOKEN>"
+    }
+  },
+  "ssh_creds": {
+    "is_enabled": true,
+    "host_name": "<HOST_NAME>",
+    "port": 22,
+    "user_name": "<USER_NAME>",
+    "password": "<PASSWORD>"
+  },
+  "delete_old_files": true,
+  "retention_period": 5
+}
