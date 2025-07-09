@@ -1,12 +1,12 @@
-# 🔐 Backup Automation to Zoho WorkDrive & Remote Server
+# 🚀 dataBackupAgent
 
-This project automates the process of:
+A Python-based backup automation tool to:
 
-- Zipping folders into a single backup file
-- Uploading the backup to Zoho WorkDrive (optional)
-- Uploading the backup to a remote server via SSH (optional)
-- Automatically deleting old backups based on retention policy
-- Running the entire process on a daily schedule using cron
+- Zip and back up multiple folders
+- Upload the backup to Zoho WorkDrive (optional)
+- Upload the backup to a remote server via SSH (optional)
+- Automatically delete old backups based on a retention policy
+- Schedule daily backups with cron
 
 ---
 
